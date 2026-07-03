@@ -1,0 +1,7 @@
+id = "vesper-orange"
+name = "Vesper Orange"
+version = "0.0.1"
+schema_version = 1
+authors = ["erickgust <hello@erickgust.dev>"]
+description = " ̶P̶e̶p̶p̶e̶r̶m̶i̶n̶t̶ ̶a̶n̶d̶ orange flavored dark theme."
+repository = "https://github.com/erickgust/vesper-orange.git"
